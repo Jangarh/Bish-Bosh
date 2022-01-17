@@ -73,3 +73,9 @@ removeItem=(itemId)=>{
         console.log("removed");
     }
 };
+
+
+// få ut .value från <input>
+// skapa en ny <li> med document.createElement('li')
+// lägg till inputen med li.innerHTML = värdet
+// använd ul.appendChild() för att lägga till vår nya li till sin ul

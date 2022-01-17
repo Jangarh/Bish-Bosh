@@ -9,4 +9,11 @@ body {
   .bg-primary {
     background-color: #443a3a !important;
   }
+
+  .mydiv {
+    margin-top: 3rem;
+    padding: 1rem 1rem 1rem 1rem;
+    width: 500px;
+    border:dashed rgb(147, 161, 157);
+  }
   
