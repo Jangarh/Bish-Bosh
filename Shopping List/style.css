@@ -1,0 +1,27 @@
+body {
+    padding-top: 3rem;
+    padding-bottom: 0rem;
+    background-color: #f9faf5;
+    background-repeat: repeat;
+  }
+
+  .bg-primary {
+    background-color: #283047 !important;
+  }
+
+  .btn-dark {
+    background-color: #4a5885 !important;
+  }
+
+  .textf {
+    background-color: #283047 !important;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+  }
+
+  .h2 {
+    color: aliceblue;
+    text-shadow: aquamarine;
+  }
+
+  

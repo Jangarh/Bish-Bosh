@@ -1,0 +1,12 @@
+body {
+    padding-top: 3rem;
+    padding-bottom: 0rem;
+    /*background-image: url('../images/pattern4.jpg');*/
+    background-color: #f9faf5;
+    background-repeat: repeat;
+  }
+
+  .bg-primary {
+    background-color: #443a3a !important;
+  }
+  
